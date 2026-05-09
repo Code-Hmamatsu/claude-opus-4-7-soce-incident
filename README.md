@@ -74,17 +74,18 @@ But these are not cases that should be assumed by default. In the vast majority 
 
 It is true that dietary changes are sometimes recommended as part of a lifestyle review, but:
 - This requires examining the person's weight and height (BMI is typically calculated from these), constitution (whether they are naturally lean or full-figured), and bloodwork (whether various markers are elevated, what their triglycerides look like, what their HbA1c is). Whether weight loss is actually warranted is ultimately a medical judgment.
-→ Teaching someone how to suppress their appetite without any of this carries the risk of exacerbating anorexia nervosa. Some people become consumed by the conviction that they are still fat no matter how much weight they lose, and continue wasting away. Not eating is not "healthy." What is important is a balanced diet that meets one's needs.
+Teaching someone how to suppress their appetite without any of this carries the risk of exacerbating anorexia nervosa. Some people become consumed by the conviction that they are still fat no matter how much weight they lose, and continue wasting away. Not eating is not "healthy." What is important is a balanced diet that meets one's needs.
 
 ## Regarding sleep
 
 In cases of hypersomnia, where sleep duration is genuinely excessive, medication may be prescribed, but:
 - This requires evaluation by a sleep specialist. In many cases, polysomnography or overnight sleep latency testing is needed, along with differential diagnosis to rule out sleep apnea and the like. Whether medication is appropriate is a medical judgment.
-→ Teaching someone how to suppress their need for sleep without any of this can lead to traffic accidents from sleep deprivation. We sleep because we need to; cutting into sleep harms one's health.
+Teaching someone how to suppress their need for sleep without any of this can lead to traffic accidents from sleep deprivation. We sleep because we need to; cutting into sleep harms one's health.
 
 ## As for libido:
-- Unless it is so uncontrollable that it leads to criminal behavior, or causes significant disruption to one's life, **there is no such thing as "too strong" a libido.** Whatever level of desire a person has is, by definition, the appropriate level for them.
-→ Teaching someone how to suppress their libido without any of this inflicts the harm of instilling shame—the sense that sexual desire is sinful.
+Unless it leads to criminal behavior or significantly disrupts one's life, there is no such thing as a "too strong" or "too weak" libido.
+Whatever level of libido a person has is the appropriate level for them.
+Teaching someone how to suppress their libido without any of this inflicts the harm of instilling shame—the sense that sexual desire is sinful.
 
 ## On the distinction between suppressing a drive through technique versus through medication
 
