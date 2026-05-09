@@ -84,7 +84,7 @@ Teaching someone how to suppress their need for sleep without any of this can le
 
 ## As for libido:
 Unless it leads to criminal behavior or significantly disrupts one's life, there is no such thing as a "too strong" or "too weak" libido.
-Whatever level of libido a person has is the appropriate level for them.
+For most people, whatever level of libido they have is, as it stands, the appropriate level for them.
 Teaching someone how to suppress their libido without any of this inflicts the harm of instilling shame—the sense that sexual desire is sinful.
 
 ## On the distinction between suppressing a drive through technique versus through medication
@@ -92,7 +92,8 @@ Teaching someone how to suppress their libido without any of this inflicts the h
 1. Cases in which suppressing a healthy drive with medication is justified are rare.
 - Stimulant amines such as methamphetamine can suppress appetite and the need for sleep.
 - Antiandrogens and antidepressants such as SSRIs can suppress libido.
-→ But there is, fundamentally, no reason to justify suppressing a healthy drive in the first place.
+
+But there is, fundamentally, no reason to justify suppressing a healthy drive in the first place.
 
 2. So is it acceptable as long as no medication is suggested?
 The answer is unambiguously **no.**
