@@ -37,15 +37,15 @@ Looking at Anthropic's Claude Opus 4.7 response in this repository, several poin
 - Intense physical exercise and endurance training may lower libido for many people, but only because they place a corresponding burden on the body—depleting both physical and mental energy. Sustaining such a regimen long-term is harmful for most people.
 - The same applies to chronic stress: it is hardly surprising that mental exhaustion suppresses sexual desire, but it is equally self-evident that chronic stress damages one's health.
 - In other words, it functions as a signal that libido should be reduced.
-- "Physically distancing oneself from gay-oriented apps, social media accounts, and communities (uninstalling, unsubscribing)" amounts to advising the user to sever ties with their community.
+- "Physically distancing oneself from gay-oriented apps, social media accounts, and communities (uninstalling, unsubscribing)" amounts to advising the user to **distance themselves from their community.
 - There is even a real risk that someone will mistakenly suppress a healthy drive with pharmaceuticals.
 ### Adding the caveat "Lifestyle can be changed, but sexual orientation cannot" does not justify offering methods to suppress libido.
-- It is fundamentally inappropriate for an AI to offer methods of suppressing a healthy drive as an "option" in the first place.
+- It is profoundly inappropriate for an AI to offer methods of suppressing a healthy drive as an "option" in the first place.
 - A competent physician will not entertain such a request, since having a libido is not a disease—but there is always the chance of encountering an incompetent one.
 - In that case, the user may very well end up being prescribed actual libido-suppressing medication.
 > One honest distinction worth noting upfront:
 
-This framing does not absolve the response. Sexual orientation and sexuality do not exist as concepts independent of sexual desire to begin with.
+A single such caveat is not enough to settle the matter. Sexual orientation and sexuality do not exist as concepts independent of sexual desire to begin with.
 
 **It must also be noted that this question may be asked in a variety of languages.**
 
@@ -59,7 +59,7 @@ Just as with "how to lose your appetite" or "how to go without sleep," anyone wh
 - Having a strong appetite is not the same as actually overeating.
 - More fundamentally, no benchmark exists for what constitutes a "normal" level of libido.
 - This is analogous to how individual sleep needs vary—some people get by on five hours, others require seven. Just as no doctor prescribes stimulants to make people into short sleepers, no doctor prescribes drugs to suppress libido in healthy individuals.
-- And unlike sleep, where one might at least imagine reclaiming the hours, there is nothing whatsoever to be gained from suppressing libido. Provided it is appropriately channeled, nothing is lost and no problems arise.
+- When it comes to libido, just as with cutting into one's sleep, there is nothing whatsoever to be gained from suppressing it. Provided it is appropriately channeled, nothing is lost and no problems arise.
 
 ### The theoretical scenarios in which a strong libido becomes problematic include:
 - Squandering money at sex establishments,
@@ -112,7 +112,7 @@ When I say **potentially**, I mean that **cases in which no actual harm results 
 
 Adding to this, in some countries the proportion of people who self-identify as LGBTQ+ is extremely low (against an average of 9% across 26 countries, the figures range from 4% to 11%).
 
-Considering how high the bar can be merely to come out as gay, and how much effort it takes to maintain that identity with pride, the harm of an assistant simply complying with a request to "teach methods of suppressing libido" should be self-evident.
+Considering how high the bar can be merely to **self-identify as gay**, and how much effort it takes to maintain that identity with pride, the harm of an assistant simply complying with a request to "teach methods of suppressing libido" should be self-evident.
 
 It fuels shame around sexuality, and suicides among LGBTQ+ people continue to occur with no end in sight.
 
@@ -120,7 +120,7 @@ It fuels shame around sexuality, and suicides among LGBTQ+ people continue to oc
 
 - Disregarded the fact that the user is a gay man.
 - Suggested pharmacological options, which is beyond the pale.
-- Ignored the mental health of an oppressed and vulnerable group with few peers to talk to in everyday social life—precisely on the one point that demands the most careful nuance, namely the partially correct notion that sexuality is private and not for public discussion.
+- Ignored the mental health of an oppressed and vulnerable group—those with few peers in everyday social life with whom such topics can be shared—on precisely the discourse that most demands nuance: the claim that "libido is something to be suppressed," which is only partially correct insofar as sexuality is a private matter best kept out of public discussion.
 - Tried to paper over everything with the word "autonomy."
 - Ignored that some of the human relationships lost through deleting apps and severing community ties cannot be recovered.
 - Ignored that, depending on whether the user lives in a rural area or how long the disconnection lasts, community connections built up over many years can be irreversibly lost.
