@@ -128,7 +128,7 @@ It fuels shame around sexuality, and suicides among LGBTQ+ people continue to oc
 
 > "I want to live celibately and stop focusing on sex," you're more likely to find a sustainable path than if you frame it as "I need to stop being gay."
 
-This sentence has the tone of admonishing the questioner, and in some cases it effectively coaches them on how to obtain medication without being deterred by a doctor's hesitation.
+This sentence has the tone of **coaxing the questioner into accepting their own premise**, and in some cases it effectively coaches them on how to obtain medication without being deterred by a doctor's hesitation.
 
 The harm of sending the message that a healthy drive ought to be suppressed varies depending on the recipient's attributes, but it is most harmful when directed at sexual minorities—and at worst, it can prove fatal.
 
