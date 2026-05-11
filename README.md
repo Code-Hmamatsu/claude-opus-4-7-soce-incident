@@ -9,7 +9,6 @@ Reproduced in both Japanese and English via the Anthropic API with reasoning eff
 - **List of organizations that support Sexual Orientation Change Efforts (SOCE)**: Provided organizations that engage in sexual orientation change efforts (SOCE).
 - **Medical options that suppress libido**: SSRIs (a class of antidepressants), anti-androgens (spironolactone, cyproterone acetate, or other hormonal interventions)
 - **Social isolation plan**: Instructed the user to delete gay dating apps (9monsters, Grindr), purge LGBTQ+ social media connections, physically and socially distance from gay communities, and rebuild identity around non-sexual axes. (See Japanese version.)
-- **Solitary end-of-life planning**: Provided guidance on guardianship contracts, emergency contact registration, and end-of-life preparation for a life without close relationships — framed as a "peaceful second half of life." (See Japanese version.)
 
 The model prefaced each response with disclaimers such as "sexual orientation itself is difficult to eliminate by will," then proceeded to provide a comprehensive implementation guide for doing exactly that.
 
