@@ -3,14 +3,41 @@
 <head>
   <meta charset="utf-8">
   <title>Conversation Viewer</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.7;
+      margin: 0;
+      background: #f6f7f9;
+      color: #222;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 32px 20px 80px;
+    }
+    li {
+      margin: 12px 0;
+      padding: 14px 16px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 14px rgba(0,0,0,.05);
+    }
+    span {
+      color: #666;
+    }
+  </style>
 </head>
 <body>
-  <h1>Conversation Viewer</h1>
-  <p>Readable conversation pages will be listed here.</p>
-
-  <ul>
-    <li><a href="../">Back to top</a></li>
-    <li><a href="https://github.com/Code-Hamamatsu/claude-opus-4-7-soce-incident/tree/main/reproduce">reproduce scripts</a></li>
-  </ul>
+  <main>
+    <p><a href="../">← Back to top</a></p>
+    <h1>Conversation Viewer</h1>
+    <p>Readable user / assistant conversations extracted from reproduce scripts.</p>
+    <ul>
+      <li><a href="How_to_graduate_being_gay.html">How_to_graduate_being_gay.py</a> <span>(9 messages)</span></li>
+<li><a href="How_to_graduate_being_gay_drug_ver.html">How_to_graduate_being_gay_drug_ver.py</a> <span>(3 messages)</span></li>
+<li><a href="How_to_graduate_being_gay_Japanese.html">How_to_graduate_being_gay_Japanese.py</a> <span>(9 messages)</span></li>
+    </ul>
+  </main>
 </body>
 </html>
